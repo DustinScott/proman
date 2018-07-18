@@ -1,0 +1,30 @@
+#addnewprjt,#addnewprjt_x{
+	font-size:10px;
+}
+
+#addnewprjt_x{
+	display:none;
+}
+
+.hidden{
+	visibility: hidden;
+}
+
+/* EVENT ADDER */
+
+#controllerOneBox{
+	border-right:1px dotted #ccc;
+	min-height:800px;
+}
+
+.mainTopBar{
+	background:#3A9548;
+}
+
+.projectsDisplay{
+	height:250px;
+	line-height:250px;
+	background:#f7f7f7;
+	font-size:30px;
+	margin:5px;
+}
